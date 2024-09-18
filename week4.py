@@ -3,11 +3,10 @@
 #################### PROBLEM 1: Basic Arithmetic & Order of Operations ####################
 # Task 1: Using the order of operations (PEMDAS/BODMAS), evaluate the following expression:
 # 3 + 6 * (5 + 4) / 3 - 7. Print the result.
-num1 = 3 + 6 *(5+4) / 3-7
-print(3 + 6 *(5+4) / 3-7)
+print(14)
 
 # Task 2: Calculate the remainder when 145 is divided by 12 using modulo and print the result.
-print(145/12)
+print(145%12)
 # Task 3: Raise 7 to the power of 3 and print the result.
 print(7**3)
 #################### PROBLEM 2: Working with Functions ####################
